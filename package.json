@@ -1,0 +1,16 @@
+{
+  "name": "for-each-right",
+  "version": "0.0.0",
+  "main": "forEachRight.js",
+  "keywords": [ "polyfill", "array" ],
+  "license": "MIT",
+  "author": {
+		"name": "Alastair Taft",
+		"url": "https://alastairtaft.me/"
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/AlastairTaft/Array.prototype.forEachRight.git"
+	},
+	"bugs": "https://github.com/AlastairTaft/Array.prototype.forEachRight/issues"
+}
