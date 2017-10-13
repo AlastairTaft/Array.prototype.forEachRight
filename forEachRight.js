@@ -2,9 +2,9 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 // Production steps of ECMA-262, Edition 5, 15.4.4.18
 // Reference: http://es5.github.io/#x15.4.4.18
-if (!Array.prototype.forEach) {
+if (!Array.prototype.forEachRight) {
   
-    Array.prototype.forEach = function(callback/*, thisArg*/) {
+    Array.prototype.forEachRight = function(callback/*, thisArg*/) {
   
       var T, k;
   
